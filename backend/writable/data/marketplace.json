@@ -1,0 +1,37 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Everyday Tote",
+            "category": "Bags",
+            "price": 38,
+            "description": "A sturdy carryall for errands, work, and weekend trips.",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Ceramic Mug Set",
+            "category": "Home",
+            "price": 24,
+            "description": "Two handmade mugs with a smooth matte finish.",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Desk Lamp",
+            "category": "Lighting",
+            "price": 52,
+            "description": "Compact task lighting with a warm focused glow.",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "Travel Notebook",
+            "category": "Stationery",
+            "price": 16,
+            "description": "A pocket notebook for plans, lists, and quick ideas.",
+            "image": ""
+        }
+    ],
+    "orders": []
+}
